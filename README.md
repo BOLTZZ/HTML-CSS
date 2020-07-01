@@ -13,3 +13,8 @@ Hi, my name is Ojas and you've found my HTML & CSS repository. Here, I go over s
 
 6. [R](https://github.com/BOLTZZ/R)
 # Table of Contents:
+| HTML & CSS
+| -----
+| [HTML & CSS Fundamentals - The fundamentals of HTML & CSS]()
+| [HTML & CSS Projects - Some cool projects made using HTML & CSS]()
+| [Images & GIFs - My images and gifs]() 
