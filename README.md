@@ -16,6 +16,6 @@ Hi, my name is Ojas and you've found my HTML & CSS repository. Here, I go over s
 | HTML & CSS
 | -----
 | [How To Get Started Guide - Get started with coding with HTML & CSS](https://github.com/BOLTZZ/HTML-CSS/blob/master/How%20To%20Get%20Started%20Guide.md)
-| [HTML & CSS Fundamentals - The fundamentals of HTML & CSS]()
+| [HTML & CSS Fundamentals - The fundamentals of HTML & CSS](https://github.com/BOLTZZ/HTML-CSS/tree/master/HTML%20%26%20CSS%20Projects)
 | [HTML & CSS Projects - Some cool projects made using HTML & CSS](https://github.com/BOLTZZ/HTML-CSS/tree/master/HTML%20%26%20CSS%20Projects)
 | [Images & GIFs - My images and gifs]() 
