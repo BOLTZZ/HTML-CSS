@@ -6,3 +6,5 @@
 <strong>CSS:</strong>
 * CSS (Cascading Style Sheets) is the language used to design/flavor the documents written in HTML.
 * CSS 
+<strong> CSS Tags:</strong>
+<strong> CSS Box Model:</strong>
